@@ -6,7 +6,7 @@ using System.Data.Entity;
 using MySql.Data.EntityFramework;
 using MVC_Entity_Framework.Models;
 
-
+// changes made
 namespace MVC_Entity_Framework.DAL
 {
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
